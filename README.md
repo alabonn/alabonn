@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I'm currently working on: **My Graduation Project (Columetrix)** | ML, IFCOpenShell, Pandas, NumPy, Sklearn, matplotlib
+- 🔭 I'm currently working on: **My Graduation Project (Columetrix)** | ML, IFCOpenShell, Pandas, NumPy, MakeFile, Sklearn, matplotlib, joblib, react, Vite, fastAPI.
 
-- 🌱 I'm currently interested in learning: **Machine Learning, IOT & Embedded Systems**
+- 🌱 I'm currently interested in learning: **Machine Learning, IOT & Embedded Systems**.
 
 <p align="left">
 </p>
