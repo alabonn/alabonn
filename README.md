@@ -13,10 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 - 🔭 I'm currently working on: **My Graduation Project (Columetrix)** | ML, IFCOpenShell, Pandas, NumPy, MakeFile, Sklearn, matplotlib, joblib, react, Vite, fastAPI.
-
-- 🌱 I'm currently interested in learning: **Machine Learning, IOT & Embedded Systems**.
+-->
+- 🌱 I'm currently interested in learning: **Physical AI, Embedded Systems & Electronics, Autonomous Systems & IoT**.
 
 <p align="left">
 </p>
